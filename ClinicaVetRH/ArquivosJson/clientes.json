@@ -1,0 +1,17 @@
+﻿{
+  "nome": "César Diego Anthony Bernardes",
+  "tipoCliente": 1,
+  "sexoCliente": 1,
+  "cpfCnpj": 99540922003,
+  "endereco": "Travessa Iraque",
+  "cidade": "São Leopoldo",
+  "estado": "RS",
+  "telefone": 6226503207,
+  "whatsapp": 6226503207,
+  "email": "yarely7047@uorak.com",
+  "situacao": 1,
+  "nomeAnimal": "Zizi",
+  "especie": 2,
+  "raca": "Siamês",
+  "sexoDoAnimal": 2
+}
